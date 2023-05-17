@@ -1,9 +1,87 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+
+  padding: 0px;
+
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: lightgray
+  background-color: lightgray;
+}
+
+.Dollar {
+  background-color: burlywood;
+
+  padding-top: 4px;
+
+  padding-bottom: 4px;
+}
+
+.Links {
+  background-color: salmon;
+
+  padding-top: 4px;
+
+  padding-bottom: 4px;
+}
+
+.Food {
+  background-color: lightyellow;
+
+  padding-top: 4px;
+
+  padding-bottom: 4px;
+}
+
+.Drink {
+  background-color: lightblue;
+
+  padding-top: 4px;
+
+  padding-bottom: 4px;
+}
+
+.Dessert {
+  background-color: lightpink;
+
+  padding-top: 4px;
+
+  padding-bottom: 4px;
+}
+
+.Menu {
+  background-color: cyan;
+
+  font-size: x-large;
+
+  font-weight: bold;
+
+  padding-top: 4px;
+
+  padding-bottom: 4px;
+}
+
+.Subtitle {
+  font-size: large;
+
+  font-weight: bold;
+
+  padding-top: 4px;
+
+  padding-bottom: 4px;
+}
+
+.Footer {
+  background-color: lightgreen;
+
+  padding-top: 4px;
+
+  padding-bottom: 4px;
+}
+
+p {
+  padding-top: 4px;
+
+  padding-bottom: 4px;
 }
