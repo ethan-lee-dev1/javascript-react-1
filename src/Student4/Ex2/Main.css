@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: rgb(174, 169, 169)
+}
+
+.header {
+  background-color: blue;
+  font-size: x-large;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.links {
+  background-color: white;
+  padding-bottom: 5px;
+  padding-top: 2px;
+}
+
+.title {
+  padding-bottom: 10px;
+}
+
+.posts {
+  line-height: 1.5;
+  margin-bottom: 7px;
+}
+
+.footer {
+  background-color: blue;
+  padding-top: 3px;
+  padding-bottom: 5px;
+}
